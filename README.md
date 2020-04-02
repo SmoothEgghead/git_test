@@ -1,0 +1,1 @@
+This is SmoothEgghead's first git project!
